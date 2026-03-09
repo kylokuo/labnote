@@ -348,7 +348,7 @@ function RecordCard({ record, colorPair, onDelete }){
               🗑 删除记录
             </button>
         )}
-        </div>
+      </div>
       )}
     </div>
   );
